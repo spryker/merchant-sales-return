@@ -1,4 +1,0 @@
-parameters:
-    checkGenericClassInNonGenericObjectType: false
-    checkMissingIterableValueType: false
-    ignoreErrors:

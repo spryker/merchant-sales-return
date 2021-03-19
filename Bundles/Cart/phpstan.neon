@@ -1,6 +1,0 @@
-parameters:
-    checkGenericClassInNonGenericObjectType: false
-    checkMissingIterableValueType: false
-    reportUnmatchedIgnoredErrors: false
-    ignoreErrors:
-        - '#Cannot unset offset (\w+) on iterable<.+ItemTransfer>&Traversable#'

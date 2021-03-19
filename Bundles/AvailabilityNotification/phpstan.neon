@@ -1,5 +1,0 @@
-parameters:
-    checkMissingIterableValueType: false
-    reportUnmatchedIgnoredErrors: false
-    ignoreErrors:
-        - '#Strict comparison using === between string and false will always evaluate to false.#'

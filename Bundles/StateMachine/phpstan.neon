@@ -1,5 +1,0 @@
-parameters:
-    checkMissingIterableValueType: false
-    reportUnmatchedIgnoredErrors: false
-    ignoreErrors:
-        - '#If condition is always true.#'

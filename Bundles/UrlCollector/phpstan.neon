@@ -1,5 +1,0 @@
-parameters:
-    checkMissingIterableValueType: false
-    reportUnmatchedIgnoredErrors: false
-    ignoreErrors:
-        - '#Cannot access offset .+collector_.+ on .+SpyTouch#'

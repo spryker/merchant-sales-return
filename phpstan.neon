@@ -1,11 +1,5 @@
-# !!! This is the fallback file for running core phpstan check !!!
-# Please use phpstan.neon file per module now and console code:phpstan -m Spryker.ModuleName instead.
-# Also set up a phpstan.json config per module and set the highest defaultLevel possible.
-includes:
-    - ../../spryker-sdk/phpstan-spryker/extension.neon
-
 parameters:
-    bootstrapFiles:
-        - '%rootDir%/../../../phpstan-bootstrap.php'
-    parallel:
-        processTimeout: 300.0
+    checkMissingIterableValueType: false
+    checkGenericClassInNonGenericObjectType: false
+    ignoreErrors:
+        - '#Call to an undefined method Generated\\(\w*)\\Ide\\AutoCompletion#'

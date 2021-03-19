@@ -1,6 +1,0 @@
-parameters:
-    checkGenericClassInNonGenericObjectType: false
-    checkMissingIterableValueType: false
-    reportUnmatchedIgnoredErrors: false
-    excludePaths:
-        - %rootDir%/../../../vendor/spryker/spryker/Bundles/ConfigurableBundlePageSearch/src/Spryker/Client/ConfigurableBundlePageSearch/Plugin/Elasticsearch/Query/ConfigurableBundleTemplatePageSearchQueryPlugin.php

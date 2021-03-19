@@ -1,4 +1,0 @@
-parameters:
-    checkMissingIterableValueType: false
-    ignoreErrors:
-        - '#Call to an undefined method .+ConnectionInterface::useDebug\(\).#'

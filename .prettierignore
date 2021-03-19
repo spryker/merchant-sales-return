@@ -1,4 +1,0 @@
-**/composer.json
-**/package-lock.json
-vendor/**
-!vendor/spryker/spryker/**

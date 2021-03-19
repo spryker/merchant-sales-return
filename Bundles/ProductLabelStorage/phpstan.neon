@@ -1,5 +1,0 @@
-parameters:
-    checkGenericClassInNonGenericObjectType: false
-    checkMissingIterableValueType: false
-    ignoreErrors:
-        - '#Parameter \#1 \$dictionaryKey of method .+LabelDictionaryInterface::findLabel\(\) expects string, int given#'

@@ -1,4 +1,0 @@
-parameters:
-    checkMissingIterableValueType: false
-    ignoreErrors:
-        - '#Negated boolean expression is always false.#'

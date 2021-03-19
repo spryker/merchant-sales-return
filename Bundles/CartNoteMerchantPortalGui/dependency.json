@@ -1,5 +1,0 @@
-{
-    "include": {
-        "spryker/cart-note": "This module provides base functionality of cart notes."
-    }
-}
